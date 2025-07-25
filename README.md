@@ -7,7 +7,7 @@
 - Data structures, algorithms, and system design
 - Open-source contributions and collaborative projects
 
-📚 I'm a 2nd-year CS student aiming to land a top-tier internship (FAANG vibes 🚀).  
+📚 I'm a 3nd-year CS student aiming to land a top-tier internship (FAANG vibes 🚀).  
 🎯 Learning by building, breaking, and rebuilding — one commit at a time.
 
 📬 Always open to connect, collaborate, or just chat about code, startups, or memes.

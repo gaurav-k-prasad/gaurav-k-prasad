@@ -1,18 +1,62 @@
-### Gaurav Kapildeo Prasad
+# Hi there, I'm Gaurav Prasad 👋
 
-👋 Hey there! I'm a developer passionate about building clean, efficient, and scalable software.
+I'm a software developer who enjoys building scalable systems, AI applications, and developer tools. I like solving challenging engineering problems—from backend architecture to machine learning and systems programming.
 
-💻 Currently diving deep into:
-- Full-stack web development (Node.js, Express, React)
-- Data structures, algorithms, and system design
-- Open-source contributions and collaborative projects
+## 🚀 What I'm Working On
 
-📚 I'm a 3nd-year CS student aiming to land a top-tier internship (FAANG vibes 🚀).  
-🎯 Learning by building, breaking, and rebuilding — one commit at a time.
+- 🤖 Deep Learning for computational photography and image processing
+- 🧠 Reinforcement Learning (PPO, DQN) and self-supervised learning
+- 🌐 Full-stack SaaS applications using React, Next.js, Node.js, Express, PostgreSQL, and Prisma
+- ⚙️ Developer tools, code intelligence, and semantic code search
+- 🖥️ Systems programming, shell development, and Linux
 
-📬 Always open to connect, collaborate, or just chat about code, startups, or memes.
+## 🛠️ Tech Stack
 
-<!---
-gaurav-k-prasad/gaurav-k-prasad is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Languages**
+- Python
+- JavaScript / TypeScript
+- C#
+- SQL
+- C
+
+**Backend**
+- Node.js
+- Express
+- REST APIs
+- PostgreSQL
+- MySQL
+- Prisma
+- Mongoose
+
+**Frontend**
+- React
+- Next.js
+- TanStack Router
+
+**AI / ML**
+- PyTorch
+- Scikit-learn
+- Computer Vision
+- Reinforcement Learning
+- Self-Supervised Learning
+
+**Tools**
+- Git
+- Docker
+- Linux
+- AWS
+- Jira
+
+## 🌱 Current Focus
+
+- Building AI-powered software
+- Computer vision research
+- Large-scale software architecture
+- Open-source contributions
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on open-source projects, AI research, developer tools, and interesting software engineering challenges.
+
+---
+*"Build. Measure. Learn. Repeat."*
